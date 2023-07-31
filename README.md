@@ -14,8 +14,8 @@
  The image above shows how it is converted from the mask format to the YOLO label format, as seen. The outputs will be as shown in the visual below.
  <br><br>
 <div style="display: flex;">
-  <img src="https://github.com/MehmetOKUYAR/Convert-Mask2Yolo/blob/main/images/mask.jpg" alt="Görsel 1" width="200" height="200">
-  <img src="https://github.com/MehmetOKUYAR/Convert-Mask2Yolo/blob/main/images/output.png" alt="Görsel 2" width="200" height="200">
+  <img src="https://github.com/MehmetOKUYAR/Convert-Mask2Yolo/blob/main/images/mask.jpg" alt="Görsel 1" width="250" height="200">
+  <img src="https://github.com/MehmetOKUYAR/Convert-Mask2Yolo/blob/main/images/output.png" alt="Görsel 2" width="250" height="200">
   <img src="https://github.com/MehmetOKUYAR/Convert-Mask2Yolo/blob/main/images/output-txt.png" alt="Görsel 3" width="300" height="200">
 </div>
 <br><br>
