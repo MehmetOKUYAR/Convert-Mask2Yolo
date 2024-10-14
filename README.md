@@ -31,3 +31,9 @@ When you run the code with `python3 main.py` you will be greeted with a window a
 <p align="center">
   <img src="https://github.com/MehmetOKUYAR/Convert-Mask2Yolo/blob/main/images/arayuz.jpeg" alt="Görüntü Açıklaması"width="500" height="300">
 </p>
+
+# Paper
+
+[A new data label conversion algorithm for YOLO segmentation of medical images](https://link.springer.com/article/10.1140/epjs/s11734-024-01338-5)
+
+
