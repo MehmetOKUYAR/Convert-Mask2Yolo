@@ -36,4 +36,6 @@ When you run the code with `python3 main.py` you will be greeted with a window a
 
 [A new data label conversion algorithm for YOLO segmentation of medical images](https://doi.org/10.1140/epjs/s11734-024-01338-5)
 
+Note: We kindly ask you not to forget to reference your work. We wish you success and enjoyable work!
+
 
